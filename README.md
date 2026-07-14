@@ -29,7 +29,8 @@ Tinkercad was used for schematic capture and to validate the wiring before assem
 
 **Circuit Snapshot**
 
-![image](https://github.com/user-attachments/assets/abb30ea2-45eb-4495-a0f9-99fe5f4cd3e1)
+<img width="921" height="726" alt="image" src="https://github.com/user-attachments/assets/f2bb59da-41c6-4d5e-a389-4767c64d3064" />
+
 
 *Diagram 1 (Accessed: January 13, 2025)*
 
