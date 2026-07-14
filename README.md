@@ -37,7 +37,8 @@ Tinkercad was used for schematic capture and to validate the wiring before assem
 
 **Final Circuit**
 
-<img width="921" height="726" alt="image" src="https://github.com/user-attachments/assets/77dd0a8f-c01e-4889-a10b-62318836c161" />
+<img width="741" height="582" alt="Screenshot 2025-06-02 210620" src="https://github.com/user-attachments/assets/377e0609-336c-46b7-93d0-7fbc24331f84" />
+
 
 
 *Diagram 2 (Accessed: January 13, 2025)*
